@@ -47,7 +47,7 @@ pipeline {
         stage('Push') {
             steps {
                 script {
-                    echo 'Hello World'
+                    echo 'Hello World!!!!'
                 }
             }
         }
